@@ -11,6 +11,9 @@ A interface é simples e intuitiva, contendo campos para inserção de dados ess
 - Ao preencher os dados, o usuário pode clicar no botão "Simular" para visualizar o resultado do investimento.
 - Há também um botão "Sair", que permite encerrar a aplicação ou retornar à tela anterior.
 
+## FIGMA 
+- > Link: https://www.figma.com/proto/uNNmBtQ1Q8To6bLlf25qRe/Investimentos?node-id=1-347&p=f&t=3I79tH8vv6Ha4UCq-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A347
+
 # Print das Telas 
 
 ![investimentos](./assets/print01.png)
