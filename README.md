@@ -12,9 +12,9 @@ A interface é simples e intuitiva, contendo campos para inserção de dados ess
 - Há também um botão "Sair", que permite encerrar a aplicação ou retornar à tela anterior.
 
 # Print das Telas 
-<!-- 
+
 ![investimentos](./assets/print01.png)
-![investimentos](./assets/print02.png) -->
+![investimentos](./assets/print02.png)
 
 ## Tecnologias 
 - > Dart – linguagem principal do projeto
